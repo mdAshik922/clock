@@ -13,9 +13,9 @@ background-color: cadetblue;
 margin: 100px 35%;
 }
 
-.hour{
+.second{
 height: 250px;
-width: 20px;
+width: 10px;
 background-color: red;
 }
 
@@ -25,8 +25,8 @@ background-color: red;
     background-color: blue;
 }
 
-.second{
+.hour{
     height: 100px;
-    width: 5px;
+    width: 25px;
     background-color: black;
 }
