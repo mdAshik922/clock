@@ -76,31 +76,24 @@ position: absolute;
 }
 
 .second{
-height: 250px;
-width: 10px;
+height: 40%;
+width: 8px;
 background-color: rgb(216, 163, 163);
-position: absolute;
-left: 60%;
-bottom: 60%;
-transform:translate(-160%);
+border-bottom-right-radius: 100%;
+border-bottom-left-radius: 100%;
 }
-
 .minute{
-    height: 150px;
-    width: 15px;
-    background-color: rgb(143, 143, 218);
-    position: absolute;
-    left: 50%;
-    bottom: 50%;
-    transform:translate(-130%);
+height: 40%;
+width: 8px;
+background-color: rgb(216, 163, 163);
+border-bottom-right-radius: 100%;
+border-bottom-left-radius: 100%;
+}
+.hour{
+height: 40%;
+width: 8px;
+background-color: rgb(216, 163, 163);
+border-bottom-right-radius: 100%;
+border-bottom-left-radius: 100%;
 }
 
-.hour{
-    height: 50%;
-    width: 10px;
-    background-color: rgb(160, 149, 149);
-    position: absolute;
-    left: 50%;
-    bottom: 50%;
-    transform:translate(-50%);
-}
